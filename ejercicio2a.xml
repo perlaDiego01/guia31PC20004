@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="css/ejercicio2a.css" ?>
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="San Miguel">
+<cabecera>San Miguel</cabecera>
+<habitantes>478, 792</habitantes>
+<altura>129 MSNM</altura>
+<codigo>+503</codigo>
+<idiomas>
+  <oficial>Español</oficial>
+  <autoctono>Nahuatl</autoctono>
+  <sec>Inglés</sec>
+</idiomas>
+<extension>2077,1km</extension>
+</departamento>
+</pais>

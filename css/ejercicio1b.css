@@ -1,0 +1,52 @@
+fichero {
+    font-size: 5vh;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgreen;
+}
+
+ficha {
+    background-color: lightsalmon;
+    display: block;
+}
+
+nombre {
+    color: black;
+    display: inline;
+}
+
+apellido {
+    color: yellow;
+    display: inline;
+}
+
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: inline;
+}
+
+telefono {
+    color: lightslategray;
+}
+
+correo {
+    color: red;
+}
+
+url {
+    color: brown;
+}
+
+dui {
+    font-weight: bold;
+}
+
+iss {
+    font-style: italic;
+    color: azure;
+}
+
+afp {
+    font-size: 6vh;
+    color: blueviolet;
+}
