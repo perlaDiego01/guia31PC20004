@@ -1,0 +1,41 @@
+{
+    "pais": {
+        "departamento": [{
+                "cabecera": "San Salvador",
+                "habitantes": "1,700,000",
+                "altura": "545 MSNM",
+                "_id": "1",
+                "_nombre": "San Salvador"
+            },
+            {
+                "cabecera": "San Miguel",
+                "habitantes": "478, 792",
+                "altura": "129 MSNM",
+                "codigo": "+503",
+                "idiomas": {
+                    "oficial": "Español",
+                    "autoctono": "Nahuatl",
+                    "sec": "Inglés"
+                },
+                "extension": "2077,1km",
+                "_id": "2",
+                "_nombre": "San Miguel"
+            },
+            {
+                "cabecera": "Santa Tecla",
+                "habitantes": "747 662",
+                "altura": "129 MSNM",
+                "codigo": "+503",
+                "idiomas": {
+                    "oficial": "Español",
+                    "autoctono": "Nahuatl",
+                    "sec": "Inglés"
+                },
+                "extension": "1652,9km",
+                "_id": "3",
+                "_nombre": "La Libertad"
+            }
+        ],
+        "_nombre": "El Salvador"
+    }
+}

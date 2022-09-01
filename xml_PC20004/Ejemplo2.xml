@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="css/ejemplo2.css" ?>
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera nombre="San Salvador"></cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+</pais>
